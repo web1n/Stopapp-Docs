@@ -20,5 +20,8 @@
 - 问：提示 “Not allowed to ... already several users on the device”
 - 答：使用工具  [本机用户](https://www.coolapk.com/apk/vc.https.adb_removeUser) 来解决。
 
+- 问：提示 “android.os.DeadObjectException ...”
+- 答：尝试更换数据线或重启手机。
+
 - 问：MIUI 用户提示 “Neither user xxx nor current process has android.permission.MANAGE_DEVICE_ADMINS”
 - 答：MIUI 用户请手动在系统设置- 开发者设置里，开启「USB 调试（安全设置）」。
