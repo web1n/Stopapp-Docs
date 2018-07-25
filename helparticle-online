@@ -1,1 +1,12 @@
-
+{
+    "article": [
+        {
+            "name": "静默安装 / 自动冻结 App 没有效果",
+            "content": "请检查是否使用了其他的管家或者阻止运行类 App 阻止了小黑屋的运行."
+        },
+        {
+            "name": "其他一些未列出的问题",
+            "content": "https://github.com/web1n/Stopapp-Docs/blob/master/FAQ%20%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md"
+        }
+    ]
+}
