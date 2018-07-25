@@ -3,6 +3,10 @@
     "img": "https://i.loli.net/2018/07/25/5b5862532fc8c.jpg",
     "article": [
         {
+            "name": "各冻结模式速度比较",
+            "content": "https://www.coolapk.com/feed/7248710"
+        },
+        {
             "name": "静默安装 / 自动冻结 App 无反应",
             "content": "请检查是否使用了手机管家或者阻止运行类 App 阻止了小黑屋的运行."
         },
