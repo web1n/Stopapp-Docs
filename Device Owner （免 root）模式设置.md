@@ -36,13 +36,10 @@ tip：您不能尝试在安卓设备管理器设置中启用小黑屋以代替�
 - 答：DPM权限已经激活。如果小黑屋仍然无法启动，请确认是否使用了同类软件。
 
 - 问：提示 “Not allowed to ... already several users on the device”
-- 答：使用  [本机用户](https://www.coolapk.com/apk/vc.https.adb_removeUser) 工具来解决。
+- 答：第 2 步的用户没有删除干净。
 
 - 问：提示 “android.os.DeadObjectException ...”
 - 答：尝试更换数据线或重启手机。
-
-- 问：小米手机出现薛定谔的猫问题
-- 答：小米手机如果需要开启 USB 调试就得登陆账号,登陆账号就无法激活设备管理员权限。这是小米的问题，请自行解决。
 
 - 问：MIUI 用户提示 “Neither user xxx nor current process has android.permission.MANAGE_DEVICE_ADMINS”
 - 答：MIUI 用户请手动在系统设置- 开发者设置里，开启「USB 调试（安全设置）」。
