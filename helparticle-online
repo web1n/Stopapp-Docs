@@ -36,7 +36,7 @@
     },
     {
       "name": "通过小黑屋安装的应用",
-      "content": "web1n.stopapp://action/run_app/com.android.settings?user=0&launch_intent=intent:#Intent;launchFlags=0x10000000;component=com.android.settings/.DeviceAdminSettings;end"
+      "content": "web1n.stopapp://action/run_app/com.android.settings?user=0&launch_intent=intent:#Intent;launchFlags=0x10000000;component=com.android.settings/com.android.settings.Settings$DeviceAdminSettingsActivity;end"
     },
     {
       "name": "其他一些未列出的问题",
