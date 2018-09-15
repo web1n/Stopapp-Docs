@@ -3,10 +3,6 @@
   "img": "https://i.loli.net/2018/07/25/5b5862532fc8c.jpg",
   "article": [
     {
-      "name": "各冻结模式速度比较",
-      "content": "https://www.coolapk.com/feed/7248710"
-    },
-    {
       "name": "自动冻结 App 无反应",
       "content": "请检查是否使用了手机管家或者阻止运行类 App 阻止了小黑屋的运行."
     },
@@ -37,10 +33,6 @@
     {
       "name": "解冻的 App 无法联网(无 ROOT 模式)",
       "content": "这是 ROM 的 bug,与小黑屋无关,在软件层面上是无法被解决(修复)的.只能等待 ROM(厂商) 修复.\n可以切换到黑阈等模式来规避这个 bug."
-    },
-    {
-      "name": "通过小黑屋安装的应用",
-      "content": "web1n.stopapp://action/run_app/com.android.settings?user=0&launch_intent=intent:#Intent;launchFlags=0x10000000;component=com.android.settings/com.android.settings.Settings$DeviceAdminSettingsActivity;end"
     },
     {
       "name": "其他一些未列出的问题",
