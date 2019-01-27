@@ -9,5 +9,5 @@ forked from Icebox-Docs
  - [常见问题](https://github.com/web1n/Stopapp-Docs/blob/master/FAQ%20%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)
 
 
-小黑屋最新版本可以从 [这里](https://https.vc/archives/17/) 下载。
+小黑屋最新版本可以从 [这里](https://https.gs/) 下载。
 
