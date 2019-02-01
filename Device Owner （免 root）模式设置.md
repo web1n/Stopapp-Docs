@@ -19,13 +19,12 @@
 
 ### 设备管理员设置步骤
 
-#### 如果您不知道如何执行 adb 指令,请使用 [一键激活工具](https://https.vc/archives/220/) 。
+#### 如果您不知道如何执行 adb 指令，请使用 [一键激活工具](https://https.vc/archives/220/) 。
 
-0. 首先确保您已安装小黑屋，并且您知道如何操作 [adb](https://sspai.com/post/23509) 命令。
 1. 进入手机「设置 - 帐户」，删除 所有 的帐户，包括你的 Google 帐户（之后可以再登录回来）。
 2. 如果您之前设置过多用户或手机自带访客模式、应用双开等，也需要一并关闭或删除（之后可以打开）。
-3. 在电脑上执行命令： `adb shell dpm set-device-owner web1n.stopapp/.receiver.AdminReceiver` （请复制，勿手输）
-4. 如果显示 Success 之类的字样，那么表明小黑屋已经配置成功。之后即可打开小黑屋使用，也可以把之前删除的帐号加回来了。
+3. 在电脑上执行命令： `adb shell dpm set-device-owner web1n.stopapp/.receiver.AdminReceiver` （可以直接复制）
+4. 如果显示 Success 之类的字样，那么表明小黑屋已经配置成功。现在即可打开小黑屋使用，也可以把之前删除的帐号加回来了。
 
 ### 常见问题：
 
