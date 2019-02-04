@@ -37,10 +37,10 @@
 - 问：提示 “no devices/emulators found”
 - 答：请检查第 0 步操作是否成功完成，检查手机驱动是否成功安装。
 
-- 问：提示 “Not allowed to ... already several accounts on the device”
+- 问：提示 “Not allowed to ... already some accounts on the device”
 - 答：第 1 步的账户没删干净，请注销您手机上所有的账户，包括 Google 账号和系统自带的如小米账户、三星账户等。注：Xperia 或 ZUK 手机在设置时请拔出 SIM 卡，之后再插入。
 
-- 问：提示 “Not allowed to ... already several users on the device”
+- 问：提示 “Not allowed to ... already some users on the device”
 - 答：第 2 步的用户没有删除干净。
 
 - 问：提示 “Trying to set the device owner, but device owner is already set.”
